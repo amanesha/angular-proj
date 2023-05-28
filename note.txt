@@ -1,0 +1,22 @@
+npm config delete proxy
+npm config delete http-proxy
+npm config delete https-proxy
+
+install git
+install vs-code
+install postman
+
+configure vs code
+install angular essentials
+
+install node js and installing node js will install npm
+
+install anular cli
+npm install -g @angular/cli
+
+ng new frontend --skip-tests
+ng serve -o
+
+
+cd frontend
+rm -rf .git
